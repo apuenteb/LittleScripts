@@ -1,2 +1,2 @@
-# Coordinate Transformation
-Python code to transform projected coordinates to Latitude and Longitude
+# Solving small problems
+This repo contains short scripts which solve small issues, regarding repetitive tasks I encounter during my work
